@@ -33,6 +33,8 @@ The following devices are supported (since kernel version):
 *  Wi-Fi 7 products
 
     * `Intel® Wi-Fi 7 BE200 <https://www.intel.com/content/www/us/en/products/sku/230078/intel-wifi-7-be200/specifications.html>`__ (6.5)
+    * `Intel® Wi-Fi 7 BE201 <https://www.intel.com/content/www/us/en/products/sku/230079/intel-wifi-7-be201/specifications.html>`__ (6.5)
+    * `Intel® Wi-Fi 7 BE202 <https://www.intel.com/content/www/us/en/products/sku/234444/intel-wifi-7-be202/specifications.html>`__ (6.5)
 
 * Wi-Fi 6E products
 
